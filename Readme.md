@@ -22,7 +22,7 @@
 
 ### Install Prerequisites
 
-- Make sure to install `Java`, `Git` and `Node.js` which are prerequisites for JHipster. - Java Install - https://www.oracle.com/java/technologies/javase-downloads.html <br> - Git Install - https://git-scm.com <br> - Node.js Install - http://nodejs.org <br>
+- Make sure to install `Java`, `Git` and `Node.js` which are prerequisites for JHipster. <br>- Java Install - https://www.oracle.com/java/technologies/javase-downloads.html <br> - Git Install - https://git-scm.com <br> - Node.js Install - http://nodejs.org <br>
 
 - install JHipster as global npm package: `npm install -g generator-jhipster`
 
@@ -34,7 +34,7 @@
 
 - We need to amswer appox. 16 questions to create our application using `Jhipster`.
 
-- 1. `The first question JHipster will ask you is what kind of application you want to generate.` with around four options.
-- `Ans` A “monolithic” architecture uses a single, one-size-fits-all application, which contains both the front-end AngularJS code, and the back-end Spring Boot code. A “microservices” architecture splits the front-end and the back-end, so that it’s easier for your application to scale and survive infrastructure issues.
+  1. `The first question JHipster will ask you is what kind of application you want to generate.` with around four options.
+     - `Ans` A “monolithic” architecture uses a single, one-size-fits-all application, which contains both the front-end AngularJS code, and the back-end Spring Boot code. A “microservices” architecture splits the front-end and the back-end, so that it’s easier for your application to scale and survive infrastructure issues.
 
 - 2. ``
