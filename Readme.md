@@ -4,7 +4,7 @@
 
 - JHipster is a development platform to generate, develop and deploy Spring Boot + Angular / React / Vue Web applications and Spring microservices.
 
-Basically, it is a Yeoman generator which creates applications that include Spring Boot, Bootstrap and Angular or React or Vue.
+- Basically, it is a Yeoman generator which creates applications that include Spring Boot, Bootstrap and Angular or React or Vue.
 
 ## Why Jhiptser
 
