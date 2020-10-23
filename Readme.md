@@ -19,3 +19,15 @@ Basically, it is a Yeoman generator which creates applications that include Spri
 - has a good test coverage for entities on frontend and backend side
 
 ## Quick start
+
+### Install Prerequisites
+
+- Make sure to install `Java`, `Git` and `Node.js` which are prerequisites for JHipster.
+
+- install JHipster as global npm package: `npm install -g generator-jhipster`
+
+- create a new project directory and cd into it `mkdir learning-Jhipster && cd learning-Jhipster`
+
+- run `jhipster` which starts the generator
+
+  ![jhipster](jhipster.png)
