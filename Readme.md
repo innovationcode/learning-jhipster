@@ -30,4 +30,4 @@
 
 - run `jhipster` which starts the generator
 
-  ![jhipster](jhipster.png)
+  ![](jhipster.PNG)
